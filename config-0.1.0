@@ -1,4 +1,4 @@
 {
-  "update": false,
-  "updateUrl": ""
+  "update": true,
+  "updateUrl": "https://www.google.com"
 }
